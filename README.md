@@ -1,7 +1,6 @@
 
 
-App is LIVE at https://inventory-management-one-puce.vercel.app/dashboard
-*ONLY CLIENT(Front-End) IS DEPLOYABLE AT FREE COST
+App is LIVE at https://inventory-management-one-puce.vercel.app/
 
 ____________________________________________________________________________
 
